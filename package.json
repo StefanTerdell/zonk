@@ -1,6 +1,8 @@
 {
   "name": "zonk",
-  "version": "0.0.0",
+  "version": "0.1.0",
+  "license": "ISC",
+  "author": "Stefan Terdell",
   "scripts": {
     "build": "tsc"
   },
@@ -11,5 +13,9 @@
   },
   "peerDependencies": {
     "zod": "^3.21.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/StefanTerdell/Zonk"
   }
 }
